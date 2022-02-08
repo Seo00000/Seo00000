@@ -10,6 +10,7 @@
 <p>
   <a href="https://dev-log-0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:mailto:josy2665@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josy2665@gmail.com"/></a>
+  <a href="https://seo0.notion.site/Development-62c5490c379a4f16a6683c063c5c08fb" target="_blank"><img src="https://img.shields.io/badge/Notion-lightgrey"/></a>
 </p>
 
 <!--
