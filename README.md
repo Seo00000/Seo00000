@@ -1,6 +1,8 @@
 ### Hi there! I'm Web Frontend Developer using React.  👋
 
-	
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo00000&size_weight=0.5&count_weight=0.5)
+
 <a href="https://github.com/Seo00000/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seo00000&show_icons=true&theme=radical" />
 </a>
@@ -15,7 +17,7 @@
 
 <!--
 <a href="https://github.com/Seo00000/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo00000&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo00000&layout=compact&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 -->
 
